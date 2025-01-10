@@ -1,4 +1,4 @@
-# Functions Framework for Node.js
+ # Functions Framework for Node.js
 
 [![npm version](https://img.shields.io/npm/v/@google-cloud/functions-framework.svg)](https://www.npmjs.com/package/@google-cloud/functions-framework) [![npm downloads](https://img.shields.io/npm/dm/@google-cloud/functions-framework.svg)](https://npmcharts.com/compare/@google-cloud/functions-framework?minimal=true)
 
