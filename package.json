@@ -20,9 +20,9 @@
   },
   "dependencies": {
     "@types/express": "^5.0.0",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.4",
     "cloudevents": "^8.0.2",
-    "express": "^4.21.2",
+    "express": "^4.22.0",
     "minimist": "^1.2.8",
     "on-finished": "^2.3.0",
     "read-pkg-up": "^7.0.1",
